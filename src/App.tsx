@@ -2,6 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import Welcome from './Welcome';
+
 function App() {
   return (
     <div className="App">
@@ -18,6 +20,7 @@ function App() {
         >
           React app demo for git flow
         </a>
+        <Welcome />
       </header>
     </div>
   );
