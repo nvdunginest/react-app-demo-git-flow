@@ -1,7 +1,7 @@
 export default function Welcome() {
   return (
     <div>
-      Welcome
+      Welcome Dung!
     </div>
   )
 }
